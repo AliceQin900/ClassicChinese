@@ -1,0 +1,35 @@
+Building prefix dict from the default dictionary ...
+Loading model from cache c:\users\admini~1\appdata\local\temp\jieba.cache
+Loading model cost 0.411 seconds.
+Prefix dict has been built succesfully.
+居延.txt
+count of terms with unknown pos: 16219
+count of terms with fuYinCi pos: 0
+total terms count: 78376
+居延新.txt
+count of terms with unknown pos: 16258
+count of terms with fuYinCi pos: 0
+total terms count: 98128
+张家山.txt
+count of terms with unknown pos: 6472
+count of terms with fuYinCi pos: 0
+total terms count: 33271
+敦煌.txt
+count of terms with unknown pos: 6136
+count of terms with fuYinCi pos: 0
+total terms count: 31396
+武威.txt
+count of terms with unknown pos: 5984
+count of terms with fuYinCi pos: 0
+total terms count: 35353
+肩水金关.txt
+count of terms with unknown pos: 9488
+count of terms with fuYinCi pos: 0
+total terms count: 37720
+肩水金关三.txt
+count of terms with unknown pos: 3827
+count of terms with fuYinCi pos: 0
+total terms count: 19051
+disc新简号_词性标注.txt
+count of terms with unknown pos: 5857
+total terms count: 26266
